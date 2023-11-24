@@ -1,0 +1,14 @@
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\bin\Debug\net8.0\Foreach Loop.exe
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\bin\Debug\net8.0\Foreach Loop.deps.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\bin\Debug\net8.0\Foreach Loop.runtimeconfig.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\bin\Debug\net8.0\Foreach Loop.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\bin\Debug\net8.0\Foreach Loop.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\obj\Debug\net8.0\Foreach Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\obj\Debug\net8.0\Foreach Loop.AssemblyInfoInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\obj\Debug\net8.0\Foreach Loop.AssemblyInfo.cs
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\obj\Debug\net8.0\Foreach Loop.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\obj\Debug\net8.0\Foreach Loop.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\obj\Debug\net8.0\refint\Foreach Loop.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\obj\Debug\net8.0\Foreach Loop.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\obj\Debug\net8.0\Foreach Loop.genruntimeconfig.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Foreach Loop\Foreach Loop\obj\Debug\net8.0\ref\Foreach Loop.dll
