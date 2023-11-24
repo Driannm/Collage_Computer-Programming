@@ -1,0 +1,14 @@
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\bin\Debug\net8.0\Console Write & WriteLine.exe
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\bin\Debug\net8.0\Console Write & WriteLine.deps.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\bin\Debug\net8.0\Console Write & WriteLine.runtimeconfig.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\bin\Debug\net8.0\Console Write & WriteLine.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\bin\Debug\net8.0\Console Write & WriteLine.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\obj\Debug\net8.0\Console Write & WriteLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\obj\Debug\net8.0\Console Write & WriteLine.AssemblyInfoInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\obj\Debug\net8.0\Console Write & WriteLine.AssemblyInfo.cs
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\obj\Debug\net8.0\Console Write & WriteLine.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\obj\Debug\net8.0\Console Write & WriteLine.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\obj\Debug\net8.0\refint\Console Write & WriteLine.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\obj\Debug\net8.0\Console Write & WriteLine.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\obj\Debug\net8.0\Console Write & WriteLine.genruntimeconfig.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Console Write & WriteLine\Console Write & WriteLine\obj\Debug\net8.0\ref\Console Write & WriteLine.dll
