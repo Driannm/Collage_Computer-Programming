@@ -1,0 +1,14 @@
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\bin\Debug\net8.0\Statement Switch.exe
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\bin\Debug\net8.0\Statement Switch.deps.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\bin\Debug\net8.0\Statement Switch.runtimeconfig.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\bin\Debug\net8.0\Statement Switch.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\bin\Debug\net8.0\Statement Switch.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\obj\Debug\net8.0\Statement Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\obj\Debug\net8.0\Statement Switch.AssemblyInfoInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\obj\Debug\net8.0\Statement Switch.AssemblyInfo.cs
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\obj\Debug\net8.0\Statement Switch.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\obj\Debug\net8.0\Statement Switch.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\obj\Debug\net8.0\refint\Statement Switch.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\obj\Debug\net8.0\Statement Switch.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\obj\Debug\net8.0\Statement Switch.genruntimeconfig.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement Switch\Statement Switch\obj\Debug\net8.0\ref\Statement Switch.dll

@@ -1,0 +1,14 @@
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\bin\Debug\net8.0\Statement If Else.exe
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\bin\Debug\net8.0\Statement If Else.deps.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\bin\Debug\net8.0\Statement If Else.runtimeconfig.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\bin\Debug\net8.0\Statement If Else.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\bin\Debug\net8.0\Statement If Else.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\obj\Debug\net8.0\Statement If Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\obj\Debug\net8.0\Statement If Else.AssemblyInfoInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\obj\Debug\net8.0\Statement If Else.AssemblyInfo.cs
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\obj\Debug\net8.0\Statement If Else.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\obj\Debug\net8.0\Statement If Else.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\obj\Debug\net8.0\refint\Statement If Else.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\obj\Debug\net8.0\Statement If Else.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\obj\Debug\net8.0\Statement If Else.genruntimeconfig.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Statement If Else\Statement If Else\obj\Debug\net8.0\ref\Statement If Else.dll
