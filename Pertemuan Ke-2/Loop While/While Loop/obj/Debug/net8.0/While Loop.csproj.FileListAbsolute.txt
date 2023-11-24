@@ -1,0 +1,14 @@
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\obj\Debug\net8.0\While Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\obj\Debug\net8.0\While Loop.AssemblyInfoInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\obj\Debug\net8.0\While Loop.AssemblyInfo.cs
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\obj\Debug\net8.0\While Loop.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\bin\Debug\net8.0\While Loop.exe
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\bin\Debug\net8.0\While Loop.deps.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\bin\Debug\net8.0\While Loop.runtimeconfig.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\bin\Debug\net8.0\While Loop.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\bin\Debug\net8.0\While Loop.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\obj\Debug\net8.0\While Loop.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\obj\Debug\net8.0\refint\While Loop.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\obj\Debug\net8.0\While Loop.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\obj\Debug\net8.0\While Loop.genruntimeconfig.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\While Loop\While Loop\obj\Debug\net8.0\ref\While Loop.dll

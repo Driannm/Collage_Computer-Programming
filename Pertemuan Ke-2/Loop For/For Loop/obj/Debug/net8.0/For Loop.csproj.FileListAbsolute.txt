@@ -1,0 +1,14 @@
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\bin\Debug\net8.0\For Loop.exe
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\bin\Debug\net8.0\For Loop.deps.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\bin\Debug\net8.0\For Loop.runtimeconfig.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\bin\Debug\net8.0\For Loop.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\bin\Debug\net8.0\For Loop.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\obj\Debug\net8.0\For Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\obj\Debug\net8.0\For Loop.AssemblyInfoInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\obj\Debug\net8.0\For Loop.AssemblyInfo.cs
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\obj\Debug\net8.0\For Loop.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\obj\Debug\net8.0\For Loop.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\obj\Debug\net8.0\refint\For Loop.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\obj\Debug\net8.0\For Loop.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\obj\Debug\net8.0\For Loop.genruntimeconfig.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\For Loop\For Loop\obj\Debug\net8.0\ref\For Loop.dll
