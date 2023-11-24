@@ -1,0 +1,14 @@
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\bin\Debug\net8.0\Object Class.exe
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\bin\Debug\net8.0\Object Class.deps.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\bin\Debug\net8.0\Object Class.runtimeconfig.json
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\bin\Debug\net8.0\Object Class.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\bin\Debug\net8.0\Object Class.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\obj\Debug\net8.0\Object Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\obj\Debug\net8.0\Object Class.AssemblyInfoInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\obj\Debug\net8.0\Object Class.AssemblyInfo.cs
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\obj\Debug\net8.0\Object Class.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\obj\Debug\net8.0\Object Class.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\obj\Debug\net8.0\refint\Object Class.dll
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\obj\Debug\net8.0\Object Class.pdb
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\obj\Debug\net8.0\Object Class.genruntimeconfig.cache
+D:\Pemrograman Komputer\New Pertemuan Ke-2\Object Class\Object Class\obj\Debug\net8.0\ref\Object Class.dll
