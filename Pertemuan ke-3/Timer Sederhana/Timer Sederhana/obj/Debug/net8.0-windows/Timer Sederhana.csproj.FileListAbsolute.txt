@@ -1,0 +1,16 @@
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\bin\Debug\net8.0-windows\Timer Sederhana.exe
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\bin\Debug\net8.0-windows\Timer Sederhana.deps.json
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\bin\Debug\net8.0-windows\Timer Sederhana.runtimeconfig.json
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\bin\Debug\net8.0-windows\Timer Sederhana.dll
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\bin\Debug\net8.0-windows\Timer Sederhana.pdb
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\Timer_Sederhana.Form1.resources
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\Timer Sederhana.csproj.GenerateResource.cache
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\Timer Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\Timer Sederhana.AssemblyInfoInputs.cache
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\Timer Sederhana.AssemblyInfo.cs
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\Timer Sederhana.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\Timer Sederhana.dll
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\refint\Timer Sederhana.dll
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\Timer Sederhana.pdb
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\Timer Sederhana.genruntimeconfig.cache
+D:\Pemrograman Komputer\Pertemuan 3\Timer Sederhana\Timer Sederhana\obj\Debug\net8.0-windows\ref\Timer Sederhana.dll
