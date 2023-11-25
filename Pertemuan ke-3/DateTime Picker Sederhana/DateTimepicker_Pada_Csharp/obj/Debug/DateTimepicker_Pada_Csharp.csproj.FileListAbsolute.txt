@@ -1,0 +1,18 @@
+C:\Users\LABKOM\Documents\220410339 - 22041045\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\bin\Debug\DateTimepicker_Pada_Csharp.exe.config
+C:\Users\LABKOM\Documents\220410339 - 22041045\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\bin\Debug\DateTimepicker_Pada_Csharp.exe
+C:\Users\LABKOM\Documents\220410339 - 22041045\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\bin\Debug\DateTimepicker_Pada_Csharp.pdb
+C:\Users\LABKOM\Documents\220410339 - 22041045\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.Form1.resources
+C:\Users\LABKOM\Documents\220410339 - 22041045\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.Properties.Resources.resources
+C:\Users\LABKOM\Documents\220410339 - 22041045\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.csproj.GenerateResource.Cache
+C:\Users\LABKOM\Documents\220410339 - 22041045\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.exe
+C:\Users\LABKOM\Documents\220410339 - 22041045\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.pdb
+D:\Pemrograman Komputer\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\bin\Debug\DateTimepicker_Pada_Csharp.exe.config
+D:\Pemrograman Komputer\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\bin\Debug\DateTimepicker_Pada_Csharp.exe
+D:\Pemrograman Komputer\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\bin\Debug\DateTimepicker_Pada_Csharp.pdb
+D:\Pemrograman Komputer\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.csproj.AssemblyReference.cache
+D:\Pemrograman Komputer\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.Form1.resources
+D:\Pemrograman Komputer\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.Properties.Resources.resources
+D:\Pemrograman Komputer\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.csproj.GenerateResource.cache
+D:\Pemrograman Komputer\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.exe
+D:\Pemrograman Komputer\Pertemuan 3\DateTimepicker_Pada_Csharp\DateTimepicker_Pada_Csharp\obj\Debug\DateTimepicker_Pada_Csharp.pdb
