@@ -1,0 +1,18 @@
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\bin\Debug\net8.0-windows\Aplikasi Hotel Reception.exe
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\bin\Debug\net8.0-windows\Aplikasi Hotel Reception.deps.json
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\bin\Debug\net8.0-windows\Aplikasi Hotel Reception.runtimeconfig.json
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\bin\Debug\net8.0-windows\Aplikasi Hotel Reception.dll
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\bin\Debug\net8.0-windows\Aplikasi Hotel Reception.pdb
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi_Hotel_Reception.Form1.resources
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi_Hotel_Reception.Help.resources
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi_Hotel_Reception.hotel.resources
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi Hotel Reception.csproj.GenerateResource.cache
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi Hotel Reception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi Hotel Reception.AssemblyInfoInputs.cache
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi Hotel Reception.AssemblyInfo.cs
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi Hotel Reception.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi Hotel Reception.dll
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\refint\Aplikasi Hotel Reception.dll
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi Hotel Reception.pdb
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\Aplikasi Hotel Reception.genruntimeconfig.cache
+D:\Pemrograman Komputer\Pertemuan Ke-3\Aplikasi Hotel Reception\Aplikasi Hotel Reception\obj\Debug\net8.0-windows\ref\Aplikasi Hotel Reception.dll
