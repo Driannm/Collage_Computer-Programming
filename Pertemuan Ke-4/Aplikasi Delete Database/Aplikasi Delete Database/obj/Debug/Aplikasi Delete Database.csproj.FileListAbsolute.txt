@@ -1,0 +1,12 @@
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\bin\Debug\Aplikasi Delete Database.exe.config
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\bin\Debug\Aplikasi Delete Database.exe
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\bin\Debug\Aplikasi Delete Database.pdb
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\bin\Debug\MySql.Data.dll
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\obj\Debug\Aplikasi Delete Database.csproj.AssemblyReference.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\obj\Debug\Aplikasi_Delete_Database.Form1.resources
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\obj\Debug\Aplikasi_Delete_Database.Properties.Resources.resources
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\obj\Debug\Aplikasi Delete Database.csproj.GenerateResource.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\obj\Debug\Aplikasi Delete Database.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\obj\Debug\Aplikasi Delete Database.csproj.CopyComplete
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\obj\Debug\Aplikasi Delete Database.exe
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Delete Database\Aplikasi Delete Database\obj\Debug\Aplikasi Delete Database.pdb

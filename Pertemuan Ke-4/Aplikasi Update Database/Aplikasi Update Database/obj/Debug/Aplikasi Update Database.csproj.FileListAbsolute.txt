@@ -1,0 +1,12 @@
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\bin\Debug\Aplikasi Update Database.exe.config
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\bin\Debug\Aplikasi Update Database.exe
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\bin\Debug\Aplikasi Update Database.pdb
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\bin\Debug\MySql.Data.dll
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\obj\Debug\Aplikasi Update Database.csproj.AssemblyReference.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\obj\Debug\Aplikasi_Update_Database.Form1.resources
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\obj\Debug\Aplikasi_Update_Database.Properties.Resources.resources
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\obj\Debug\Aplikasi Update Database.csproj.GenerateResource.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\obj\Debug\Aplikasi Update Database.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\obj\Debug\Aplikasi Update Database.csproj.CopyComplete
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\obj\Debug\Aplikasi Update Database.exe
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Update Database\Aplikasi Update Database\obj\Debug\Aplikasi Update Database.pdb
