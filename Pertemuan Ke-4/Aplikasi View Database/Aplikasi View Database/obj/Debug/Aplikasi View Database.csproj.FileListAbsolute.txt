@@ -1,0 +1,12 @@
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\obj\Debug\Aplikasi View Database.csproj.AssemblyReference.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\obj\Debug\Aplikasi_View_Database.Form1.resources
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\obj\Debug\Aplikasi_View_Database.Properties.Resources.resources
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\obj\Debug\Aplikasi View Database.csproj.GenerateResource.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\obj\Debug\Aplikasi View Database.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\bin\Debug\Aplikasi View Database.exe.config
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\bin\Debug\Aplikasi View Database.exe
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\bin\Debug\Aplikasi View Database.pdb
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\bin\Debug\MySql.Data.dll
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\obj\Debug\Aplikasi View Database.csproj.CopyComplete
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\obj\Debug\Aplikasi View Database.exe
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi View Database\Aplikasi View Database\obj\Debug\Aplikasi View Database.pdb

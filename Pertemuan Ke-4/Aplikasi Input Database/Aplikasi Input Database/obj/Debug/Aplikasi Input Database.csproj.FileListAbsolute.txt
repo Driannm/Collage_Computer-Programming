@@ -1,0 +1,12 @@
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\bin\Debug\Aplikasi Input Database.exe.config
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\bin\Debug\Aplikasi Input Database.exe
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\bin\Debug\Aplikasi Input Database.pdb
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\bin\Debug\MySql.Data.dll
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\obj\Debug\Aplikasi Input Database.csproj.AssemblyReference.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\obj\Debug\Aplikasi_Input_Database.Form1.resources
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\obj\Debug\Aplikasi_Input_Database.Properties.Resources.resources
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\obj\Debug\Aplikasi Input Database.csproj.GenerateResource.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\obj\Debug\Aplikasi Input Database.csproj.CoreCompileInputs.cache
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\obj\Debug\Aplikasi Input Database.csproj.CopyComplete
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\obj\Debug\Aplikasi Input Database.exe
+D:\Pemrograman Komputer\Pertemuan Ke-4\Aplikasi Input Database\Aplikasi Input Database\obj\Debug\Aplikasi Input Database.pdb
